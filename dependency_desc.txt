@@ -1,0 +1,11 @@
+Backend - 
+1. bycryptjs : Password hashing
+2. body-parser : Middleware to parse incoming request bodies
+3. concurrently : Run multiple commands concurrently
+4. express : Application framework
+5. is-empty : Global function to check for empty values
+6. jsonwebtoken : Used for login auth
+7. mongoose : Used to model for MongoDB
+8. passport : Authenticates requests so that only logged in users may access the site
+9. passport-jwt : Used to use the jsonwebtoken in passport
+10. validator : Validates form inputs
